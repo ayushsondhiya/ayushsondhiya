@@ -118,7 +118,7 @@ Here's what I bring to the table:
 
 <br/>  
 
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=hubh9gqzofl97vdnvu5xmx7fd&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)  
+![Listening to on Spotify]([[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=hubh9gqzofl97vdnvu5xmx7fd&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true&bar_color=4e59b1)  
 
 <br/>  
 
